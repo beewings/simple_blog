@@ -1,0 +1,10 @@
+#footer{
+	margin-top: 50px;
+	
+
+	padding-bottom: 30px;
+}
+#footer .col-sm-6 {
+	padding-top: 30px;
+	border-top: solid 1px #dcdcdc;
+}
